@@ -1,0 +1,4 @@
+STORE_FILE=urhobo-lingo-release.keystore
+STORE_PASSWORD=change_me
+KEY_ALIAS=urhobo-lingo
+KEY_PASSWORD=change_me

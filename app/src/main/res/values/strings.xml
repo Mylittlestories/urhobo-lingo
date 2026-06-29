@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UrhoboLingo</string>
+    <string name="translator_title">English ↔ Urhobo Translator</string>
+    <string name="onboarding_title">Welcome to UrhoboLingo</string>
+    <string name="onboarding_subtitle">Learn Urhobo through fun bite-sized lessons, quizzes, streaks, and practice.</string>
+</resources>

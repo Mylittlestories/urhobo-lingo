@@ -1,0 +1,41 @@
+{
+  "guidance": [
+    {
+      "id": "welcome_intro",
+      "title": "Welcome Intro",
+      "file": "guidance/welcome_intro.mp3",
+      "speaker": "female_urhobo_placeholder",
+      "language": "urh"
+    },
+    {
+      "id": "lesson_help",
+      "title": "Lesson Help",
+      "file": "guidance/lesson_help.mp3",
+      "speaker": "female_urhobo_placeholder",
+      "language": "urh"
+    }
+  ],
+  "pronunciation": [
+    {
+      "id": "hello",
+      "text": "Mighwo",
+      "file": "pronunciation/hello_mighwo.mp3",
+      "speaker": "female_urhobo_placeholder",
+      "language": "urh"
+    },
+    {
+      "id": "good_morning",
+      "text": "Mighwo r'oyibo",
+      "file": "pronunciation/good_morning_mighwo_royibo.mp3",
+      "speaker": "female_urhobo_placeholder",
+      "language": "urh"
+    },
+    {
+      "id": "how_are_you",
+      "text": "Oghene vwo?",
+      "file": "pronunciation/how_are_you_oghene_vwo.mp3",
+      "speaker": "female_urhobo_placeholder",
+      "language": "urh"
+    }
+  ]
+}
